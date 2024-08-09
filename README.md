@@ -1,1 +1,2 @@
-# Serious-Tech-Job-Seekers-Page
+Serious-Tech-Job-Seekers-Page
+Welcome to the Serious Tech Job Seekers Page—a platform dedicated to helping tech professionals secure remote work and achieve their career goals. My name is Joseph Blythe, and after unexpectedly losing my job on June 3, 2024, I created this page to support Remote Workers, Digital Nomads, and laid-off tech workers. This community is here to provide resources, opportunities, and guidance as you navigate your career journey.
